@@ -1,2 +1,2 @@
-puts board = [""]
+puts board = ['', '',]
         
